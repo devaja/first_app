@@ -1,9 +1,10 @@
 #Ruby on Rails Tutorial: MY VERY FIRST APPLICATION
 
-Now; this is my very first attempt at making my very first ror app so ignore all the quirkiness and the commonplace muck. Not to mention the unfathomable banter. Goodbye.
+Now; this is my very first attempt at making my very first ror app so ignore all the added quirkiness and the commonplace muck. Not to mention the unfathomable banter. Goodbye.
 
-Thus begin.....
+Thus begins.....
 
+Do visit [*whoo*](http://devajashah.wordpress.org/) 
 
 == README
 
@@ -21,8 +22,6 @@ Things you may want to cover:
 * Database creation
 
 * Database initialization
-
-* How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
 
