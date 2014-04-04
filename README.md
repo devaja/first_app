@@ -1,3 +1,10 @@
+#Ruby on Rails Tutorial: MY VERY FIRST APPLICATION
+
+Now; this is my very first attempt at making my very first ror app so ignore all the quirkiness and the commonplace muck. Not to mention the unfathomable banter. Goodbye.
+
+Thus begin.....
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
