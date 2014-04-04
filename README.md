@@ -4,7 +4,7 @@ Now; this is my very first attempt at making my very first ror app so ignore all
 
 Thus begins.....
 
-Do visit [*whoo*](http://devajashah.wordpress.org/) 
+Do visit [*whoo*](http://devajashah.wordpress.com/) 
 
 == README
 
